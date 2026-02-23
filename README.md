@@ -1,34 +1,32 @@
 FiveM UI
-This repository features my custom user interface designs developed for FiveM. Every project was first prototyped in Figma to ensure a professional look and then implemented as a functional NUI.
+This repository showcases my custom user interface designs for FiveM. Each project followed a strict workflow: designed in Figma for high-fidelity visuals and then developed into a functional NUI.
 
 Tools Used
-Figma (UI/UX Design)
+Design: Figma (UI/UX)
 
-HTML5 / CSS3
-
-JavaScript (ES6+)
+Development: HTML5, CSS3, JavaScript (ES6+)
 
 Banking System
-A clean financial dashboard with a visual graph to track income and expenses easily.
+A minimalist financial dashboard featuring real-time income/expense graphs and transaction management.
 
 Watch Preview
 
 Restaurant System
-A specialized management menu for businesses to craft food and drinks using a category-based list.
+A professional business interface for managing staff tasks and crafting items via a clean catalog.
 
 Watch Preview
 
 Vehicle Shop
-A modern dealership interface that displays vehicle performance stats and categories.
+An aesthetic dealership UI that displays vehicle performance metrics and technical specifications.
 
 Watch Preview
 
 Advanced Shop
-A simple supermarket interface with a dynamic shopping cart and various payment options.
+A fast and responsive supermarket interface with a dynamic shopping cart and checkout system.
 
 Watch Preview
 
 Advanced Garage
-A tracking panel for personal vehicles that shows engine health, fuel levels, and plates.
+A compact management panel to track vehicle status, including engine health and fuel levels.
 
 Watch Preview
